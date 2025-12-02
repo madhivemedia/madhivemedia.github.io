@@ -68,7 +68,7 @@
     "siteUrl": "https://madhivemedia.github.io",
     "publishChangesOnly": false,
     "google-analytics": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WZXKPKB5\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->",
-    "robotsText": "User-agent: *\nAllow: /cgi-bin\n",
+    "robotsText": "User-agent: *\nAllow: /\n\nSitemap: https://yourusername.github.io/sitemap.xml\n\n",
     "cookiesAlert": false,
     "gdpr": false
   },
